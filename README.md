@@ -2,4 +2,4 @@
 
 Miscellaneous things I thought were worth sharing.
 
-- [Death Metal Earth kills](death metal earth/README.md)
+- [Death Metal Earth kills](death_metal_earth/README.md)
